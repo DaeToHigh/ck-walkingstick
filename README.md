@@ -3,7 +3,6 @@ This is my walking stick resource for the QBCore framework
 # Dependencies:
 qb-core: https://github.com/qbcore-framework/qb-core
 qb-inventory: https://github.com/qbcore-framework/qb-inventory
-qb-ambulancejob: https://github.com/qbcore-framework/qb-ambulancejob
 
 # Add to qb-core > shared > items.lua
 ```
